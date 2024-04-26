@@ -28,7 +28,7 @@ const MenuCloseButton = styled.img`
 `;
 
 const BigMenuList = styled.ul`
-width: fit-content;
+  width: fit-content;
   display: flex;
   flex-direction: column;
   gap: 28px;

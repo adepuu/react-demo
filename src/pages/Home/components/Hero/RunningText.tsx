@@ -13,7 +13,11 @@ line-height: normal;
 
 const RunningText: React.FC = () => {
   return (
-    
+    <RunningTextContainer>
+      <div>
+        
+      </div>
+    </RunningTextContainer>
   );
 };
 

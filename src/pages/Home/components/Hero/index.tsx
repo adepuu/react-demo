@@ -24,6 +24,7 @@ const Hero: React.FC = () => {
     <HeroSection>
       <HeroImage src={heroImageAsset} alt="Hero Image"/>
       <SideMenu />
+      {/* <RunningText /> */}
     </HeroSection>
   );
 };
